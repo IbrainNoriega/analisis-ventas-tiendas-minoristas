@@ -1,4 +1,5 @@
 # analisis-ventas-tiendas-minoristas
+![Dashboard Preview](BITableau.png)
 
 📌 Descripción
 
